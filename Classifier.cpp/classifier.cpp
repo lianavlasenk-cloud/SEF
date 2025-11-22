@@ -1,0 +1,7 @@
+
+int train() {
+	printf("train");
+}
+
+
+
